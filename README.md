@@ -1,7 +1,7 @@
 # Progetto per il corso di Intelligenza Artificiale
-A cura di Davide Leone e Andrea Bariselli
+A cura di Davide Leone e Andrea Bariselli.
 
-Università di Brescia, Dipartimento di Ingegneria dell'Informazione
+Università di Brescia, Dipartimento di Ingegneria dell'Informazione.
 
 ## Consegna
 ### Cosa fare con i paper
@@ -11,7 +11,7 @@ Università di Brescia, Dipartimento di Ingegneria dell'Informazione
 - Preparare una presentazione di cui i punti precedenti.
 
 ### Cosa fare successivamente
-Usare il software con l'algoritmo RESPLAN2 e testare i seguenti domnini:
+Usare il software con l'algoritmo RESPLAN2 e testare i seguenti domini:
 - **Blocksworld:** problema 1;
 - **Zenotravel:** problema 3.
 
